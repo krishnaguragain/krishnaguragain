@@ -1,4 +1,8 @@
-### Hi there 👋
+[My Blog](https://medium.com/@krishnaguragain) | [E-Mail](mailto:krishnaguragain@outlook.com) | [Github](https://github.com/krishnaguragain/)
+
+[![Krishna Guragai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishnaguragain&show_icons=true&&them=&hide_title=false)](https://github.com/krishnaguragain)
+
+
 
 <!--
 **krishnaguragain/krishnaguragain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
