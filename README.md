@@ -1,20 +1,17 @@
+<h1 align="center">Hi 👋, I'm Krishna</h1>
+<h3 align="center">I'm a Full Stack Developer with a passion for building intelligent systems that make a difference. I use machine learning and software engineering to solve problems.</h3>
+
+- 👨‍💻 I work at [Gurkha Technology](https://gurkhatech.com/). 
+
+- 🌱 I’m currently learning **Quantitative Analysis**, **Nodejs & Microservices.**
+
 [My Blog](https://medium.com/@krishnaguragain) | [E-Mail](mailto:krishnaguragain@outlook.com) | [Github](https://github.com/krishnaguragain/)
 
-[![Krishna Guragai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishnaguragain&show_icons=true&&them=&hide_title=false)](https://github.com/krishnaguragain)
+[![Krishna Guragai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishnaguragain&show_icons=true&hide_title=false&count_private=true&theme=dark)](https://github.com/krishnaguragain)
 
 
 
-<!--
-**krishnaguragain/krishnaguragain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<a href="https://www.linkedin.com/in/krishnaguragai/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/krishnaguragai/" height="30" width="30" /></a>
+<a href="https://medium.com/@krishnaguragain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@krishnaguragain" height="30" width="30" /></a>
+</p>
