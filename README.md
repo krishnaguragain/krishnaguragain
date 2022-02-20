@@ -9,7 +9,7 @@
 
 [![Krishna Guragai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishnaguragain&show_icons=true&hide_title=false&count_private=true&theme=dark)](https://github.com/krishnaguragain)
 
-
+![Krishna's github activity graph](https://activity-graph.herokuapp.com/graph?username=krishnaguragain&theme=dracula)
 
 <p align="center">
 <a href="https://www.linkedin.com/in/krishnaguragai/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/krishnaguragai/" height="30" width="30" /></a>
