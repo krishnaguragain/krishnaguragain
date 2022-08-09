@@ -15,3 +15,7 @@
 <a href="https://www.linkedin.com/in/krishnaguragai/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/krishnaguragai/" height="30" width="30" /></a>
 <a href="https://medium.com/@krishnaguragain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@krishnaguragain" height="30" width="30" /></a>
 </p>
+
+<p align="center">
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=krishnaguragain&theme=flat&no-frame=true&margin-w=30&margin-h=20" />
+</p>
